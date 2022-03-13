@@ -1,3 +1,4 @@
+#Creators: Lysenko M 60%, Skorokhodov M 50%
 import urllib.request
 with open('input.txt','r') as inp:
     with open('output.txt','w') as outp:
